@@ -1,4 +1,4 @@
-#include <GL/glut.h>
+#include <glut.h>
 
 void renderCB() {
     glClear(GL_COLOR_BUFFER_BIT);
